@@ -25,11 +25,11 @@ This is a presentation  for CSCI 331 which goes over how we improved the databas
 - **Esfar**
   - Part 2c(Unique Constraints), Part 2d(Check Constrains) and  Part 2e(Default constraints)
 
-- **Sayantan**
+- **Yousuf**
   - Part 3(UDT implementation)
 
-- **Yousuf**
-  - ERD and conlusion
+- **Sayantan**
+  - ERD and conclusion
   
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
