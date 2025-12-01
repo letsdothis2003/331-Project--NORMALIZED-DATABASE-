@@ -19,12 +19,10 @@ This is a presentation  for CSCI 331 which goes over how we improved the databas
   - Part 2a(Primary key and Foreign key constrains) and Part 2b(Null Constraints)
 
 - **Esfar**
-  -Part 2c(Unique Constraints), Part 2d(Check Constrains) and  Part 2e(Default constraints)
+  - Part 2c(Unique Constraints), Part 2d(Check Constrains) and  Part 2e(Default constraints)
 
-  
 - **Sayantan**
-    -Part 3(UDT implementation)
-
+  - Part 3(UDT implementation)
 
 - **Yousuf**
   - ERD and conlusion
